@@ -5,10 +5,6 @@ Hello my name is André Vinicius, in my GitHub will show you, all programmer i d
  - 19 years old
  - Designer and programmer
 
-## Best programman develop
-- Project NetFlix (Android Studio)  75% Complete
-- Project Spotify (Android Studio)  12% Complete
-
 
 ## Specialites
 ### Front-End
