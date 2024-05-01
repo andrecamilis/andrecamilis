@@ -10,8 +10,13 @@ Hello my name is André Vinicius, in my GitHub will show you, all programmer i d
 ### Front-End
 
 <div id="spe1">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/61/HTML5_logo_and_wordmark.svg/800px-HTML5_logo_and_wordmark.svg.png" width="140">
-  <img src="https://logodownload.org/wp-content/uploads/2017/04/css-3-logo.png" width="100">
+  <div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
+</div>
+
+###
 </div>
 
 
